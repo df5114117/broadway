@@ -1,0 +1,54 @@
+*{
+  text-align: center;
+}
+
+.header{
+  background-image: url(../building.png)
+}
+
+#home, #process, #work, #team, #contact {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-decoration: underline;
+}
+
+h1{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.bottom{
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+p{
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+#design{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(../building.png); 
+}
